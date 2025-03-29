@@ -5,7 +5,7 @@ const app=express();
 const cors=require("cors");
 
 const corsOptions={
-    origin:"https://task-30-lovat.vercel.app",
+    origin:"https://task-30-dgth.vercel.app",
     methods:"GET,POST,PATCH,PUT,DELETE",
     credentials:true
 }
